@@ -8,6 +8,7 @@ I speak Spanish (native) and English (C1 level) and feel comfortable in both lan
 
 
 Fun Fact ⚡
+
 I'm pretty passionate and interested in sustainable farming, agriculture, natural resources management, and nature in general.
 
 I'm very interested in combining my career skills with these topics. 🌿🌿
