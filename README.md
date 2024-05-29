@@ -5,6 +5,8 @@ I'm Gerhard, a current software engineering student at Universidad de San Carlos
 
 I speak Spanish (native) and English (C1 level) and feel comfortable in both languages. 💬
 
+
+
 Fun Fact ⚡
 I'm pretty passionate and interested in sustainable farming, agriculture, natural resources management, and nature in general.
 
