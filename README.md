@@ -2,10 +2,13 @@
 ## My Name is Gerhard Ardon
 
 I'm Gerhard, a current software engineering student at Universidad de San Carlos de Guatemala (USAC) 🎓
+
 I speak Spanish (native) and English (C1 level) and feel comfortable in both languages. 💬
 
 Fun Fact ⚡
-I'm pretty passionate and interested in sustainable farming, agriculture, natural resources management, and nature in general. I'm very interested in combining my career skills with these topics. 🌿🌿
+I'm pretty passionate and interested in sustainable farming, agriculture, natural resources management, and nature in general.
+
+I'm very interested in combining my career skills with these topics. 🌿🌿
 
 ## 💻 Tools i've worked with:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
