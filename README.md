@@ -1,9 +1,13 @@
-## Hi there 👋
+# ⚙📚 Hi everyone...
+## My Name is Gerhard Ardon
 
-<h1 align="center">Hola soy Gerhard Ardon!</h1>
-<h3 align="center">Estudiante de Ingenieria en Ciencias y sistemas</h3>
+I'm Gerhard, a current software engineering student at Universidad de San Carlos de Guatemala (USAC) 🎓
+I speak Spanish (native) and English (C1 level) and feel comfortable in both languages. 💬
 
-# 💻 Tech Stack:
+Fun Fact ⚡
+I'm pretty passionate and interested in sustainable farming, agriculture, natural resources management, and nature in general. I'm very interested in combining my career skills with these topics. 🌿🌿
+
+## 💻 Tools i've worked with:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -32,7 +36,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 
-# 📱 My Socials :
+## 📱 My Socials :
 <p align="left">
 <a href="https://twitter.com/gerhardardon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerhardardon" height="30" width="40" /></a>
 <a href="https://instagram.com/gerhardardon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerhardardon" height="30" width="40" /></a>
