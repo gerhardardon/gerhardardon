@@ -13,7 +13,7 @@ I'm pretty passionate and interested in sustainable farming, agriculture, natura
 I'm very interested in combining my career skills with these topics. 🌿🌿
 
 ### 🔎 Interesting Repos 
-![Conteo de Votos](https://github.com/gerhardardon/SO1_1S2024_202004796/tree/main/PROYECTO2)
+[Conteo de Votos](https://github.com/gerhardardon/SO1_1S2024_202004796/tree/main/PROYECTO2)
 
 ## 💻 Tools i've worked with:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
