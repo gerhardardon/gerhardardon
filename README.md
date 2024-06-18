@@ -13,10 +13,10 @@ I'm pretty passionate and interested in sustainable farming, agriculture, natura
 I'm very interested in combining my career skills with these topics. 🌿🌿
 
 ### 🔎 Interesting Repos 
-[pollylingo -webapp to learn languages](https://github.com/gerhardardon/pollylingo_redsocial)
-[Voting System](https://github.com/gerhardardon/SO1_1S2024_202004796/tree/main/PROYECTO2)
-[Files Managment simulation](https://github.com/gerhardardon/MIA_P2_202004796)
-[Linux Modules Views](https://github.com/gerhardardon/SO1_1S2024_202004796/tree/main/PROYECTO1)
+- [pollylingo -webapp to learn languages](https://github.com/gerhardardon/pollylingo_redsocial)
+- [Voting System](https://github.com/gerhardardon/SO1_1S2024_202004796/tree/main/PROYECTO2)
+- [Files Managment simulation](https://github.com/gerhardardon/MIA_P2_202004796)
+- [Linux Modules Views](https://github.com/gerhardardon/SO1_1S2024_202004796/tree/main/PROYECTO1)
 
 ## 💻 Tools i've worked with:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
